@@ -9,11 +9,10 @@ It will ask some question like projectname and other, answer just like given bel
 > npx
 > create-vite
 
-√ Project name: ... frontend
+√ Project name: ... weathercard
 √ Select a framework: » React
 √ Select a variant: » JavaScript +  SWC
 
-Scaffolding project in AshuraWebBlog\frontend...
 
 Done. Now run:
 
@@ -21,8 +20,8 @@ Done. Now run:
   npm install
   npm run dev
 
+Scaffolding project in weathercard...
 ```
-
 ### step 2: Install modules
 ```bash
 cd frontend

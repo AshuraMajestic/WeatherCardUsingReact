@@ -34,3 +34,6 @@ use the below command and open the given link by the cmd
 npm run dev
 ```
 for me it is http://localhost:5173/
+
+### step 4: Copy the above data in the givene files in `src`
+file to be copied: `App.jsx` `App.css` Now if you run you can see everything
